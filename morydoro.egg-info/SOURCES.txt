@@ -1,0 +1,10 @@
+README.md
+setup.py
+morydoro/__init__.py
+morydoro/morydoro.py
+morydoro.egg-info/PKG-INFO
+morydoro.egg-info/SOURCES.txt
+morydoro.egg-info/dependency_links.txt
+morydoro.egg-info/entry_points.txt
+morydoro.egg-info/requires.txt
+morydoro.egg-info/top_level.txt
