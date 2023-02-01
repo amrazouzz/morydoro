@@ -61,5 +61,5 @@ def morydoro():
                 timeout=5
             )
 
-def main():
-    morydoro()
+
+morydoro()
